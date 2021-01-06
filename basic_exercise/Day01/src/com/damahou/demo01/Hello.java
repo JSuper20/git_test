@@ -6,5 +6,6 @@ public class Hello {
         System.out.println("你好啊");
         System.out.println("你好啊");
         System.out.println("你好啊");
+        System.out.println("adfs");
     }
 }
